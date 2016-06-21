@@ -1,0 +1,22 @@
+{
+  "name": "ng-basics-boilerplate",
+  "description": "a boilerplate application for angular",
+  "main": "gulp",
+  "authors": [
+    "Ivo von Putzer Reibegg <ivo.putzer@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "ng"
+  ],
+  "homepage": "https://github.com/ivoputzer/ng-basics-boilerplate",
+  "private": true,
+  "ignore": [
+    "www/vendor"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "jquery": "^3.0.0"
+  }
+}

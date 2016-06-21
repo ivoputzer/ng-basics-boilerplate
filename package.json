@@ -1,0 +1,37 @@
+{
+  "name": "ng-basics-boilerplate",
+  "version": "0.0.0",
+  "private": true,
+  "description": "a boilerplate application for angular",
+  "main": "gulp",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoputzer/ng-basics-boilerplate.git"
+  },
+  "keywords": [
+    "angular",
+    "ng"
+  ],
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivoputzer/ng-basics-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/ng-basics-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-using": "^0.1.1",
+    "gulp-webserver": "^0.9.1",
+    "require-dir": "^0.3.0"
+  }
+}
